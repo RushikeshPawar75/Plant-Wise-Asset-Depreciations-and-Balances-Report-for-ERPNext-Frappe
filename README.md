@@ -1,0 +1,2 @@
+# Plant-Wise-Asset-Depreciations-and-Balances-Report-for-ERPNext-Frappe
+This Frappe/ERPNext custom query report provides a detailed, plant-wise analysis of asset depreciations and balances, helping finance teams and asset managers track asset value changes over time. The report supports grouping by Asset Category or Individual Asset and offers dynamic filtering for:- Branch, Segment, and Cost Center
