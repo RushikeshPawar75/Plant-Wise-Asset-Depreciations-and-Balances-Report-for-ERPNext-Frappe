@@ -1,5 +1,5 @@
 
-![Uploading Plant-Wise-Asset-Depreciations-and-Balances-Report-for-ERPNext-Frappe.png…]()
+
 <img width="1536" height="1024" alt="Plant-Wise-Asset-Depreciations-and-Balances-Report-for-ERPNext-Frappe" src="https://github.com/user-attachments/assets/c4691f54-c9a8-41d7-9924-b5ac49d87b09" />
 
 
